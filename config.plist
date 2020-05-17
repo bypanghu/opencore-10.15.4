@@ -1251,8 +1251,6 @@
 			<string>MacBook-Aluminum</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
-			<key>ChassisSerialNumber</key>
-			<string>C02X60VYHV2N</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1275,10 +1273,6 @@
 			<string>MacBookPro14,2</string>
 			<key>SystemSKUNumber</key>
 			<string>Mac-CAD6701F7CEA0921</string>
-			<key>SystemSerialNumber</key>
-			<string>C02X60VYHV2N</string>
-			<key>SystemUUID</key>
-			<string>889BB590-B09E-5A9D-A8BC-71FFA6479953</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
